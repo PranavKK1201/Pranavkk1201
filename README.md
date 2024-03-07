@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am working on solving real world problems no matter how small.<br>I strive to create code for things that genuinely interest me and the<br>selection of projects reflects the same<br><br>
+I am working on solving real world problems no matter how small.I strive to create code for things that genuinely interest me and the<br>selection of projects reflects the same<br><br>
 
 
 ## 🌐 Socials:
